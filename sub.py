@@ -1,4 +1,4 @@
 # this is a program which subtracts two numbers
 
-def sub(num1,num2):
-  return num1-num2
+def sub(number_one,number_two):
+  return number_one-number_two
