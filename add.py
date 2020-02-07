@@ -4,7 +4,8 @@ def adder(number_one, number_two):
     '''
     adder functions adds two numbers and return their sum
     '''
-    return number_one+number_two
+    summation = number_one+number_two
+    return summation
 
 
 print(adder(10,20))
